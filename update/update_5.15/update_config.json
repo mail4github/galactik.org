@@ -1,0 +1,141 @@
+{
+  "require_version" : "5.14",
+  "directory": [],
+  "sql_file": "",
+  "libraries": [],
+  "files": [
+    
+    {
+        "root_directory" : "update/update_5.15/application/config/config.php",
+        "update_directory" : "application/config/config.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/controllers/Admin.php",
+        "update_directory" : "application/controllers/Admin.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/controllers/Api.php",
+        "update_directory" : "application/controllers/Api.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/controllers/Home.php",
+        "update_directory" : "application/controllers/Home.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/controllers/Payment.php",
+        "update_directory" : "application/controllers/Payment.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/controllers/User.php",
+        "update_directory" : "application/controllers/User.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/helpers/user_helper.php",
+        "update_directory" : "application/helpers/user_helper.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/models/Crud_model.php",
+        "update_directory" : "application/models/Crud_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/models/Email_model.php",
+        "update_directory" : "application/models/Email_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/models/Payment_model.php",
+        "update_directory" : "application/models/Payment_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/models/User_model.php",
+        "update_directory" : "application/models/User_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/course_add.php",
+        "update_directory" : "application/views/backend/admin/course_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/course_add_shortcut.php",
+        "update_directory" : "application/views/backend/admin/course_add_shortcut.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/course_edit.php",
+        "update_directory" : "application/views/backend/admin/course_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/courses.php",
+        "update_directory" : "application/views/backend/admin/courses.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/quiz_add.php",
+        "update_directory" : "application/views/backend/admin/quiz_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/admin/quiz_edit.php",
+        "update_directory" : "application/views/backend/admin/quiz_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/course_add.php",
+        "update_directory" : "application/views/backend/user/course_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/course_add_shortcut.php",
+        "update_directory" : "application/views/backend/user/course_add_shortcut.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/course_edit.php",
+        "update_directory" : "application/views/backend/user/course_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/courses.php",
+        "update_directory" : "application/views/backend/user/courses.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/quiz_add.php",
+        "update_directory" : "application/views/backend/user/quiz_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/backend/user/quiz_edit.php",
+        "update_directory" : "application/views/backend/user/quiz_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/compare.php",
+        "update_directory" : "application/views/frontend/default/compare.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/course_page.php",
+        "update_directory" : "application/views/frontend/default/course_page.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/home.php",
+        "update_directory" : "application/views/frontend/default/home.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/profile_menus.php",
+        "update_directory" : "application/views/frontend/default/profile_menus.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/shopping_cart.php",
+        "update_directory" : "application/views/frontend/default/shopping_cart.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/frontend/default/shopping_cart_inner_view.php",
+        "update_directory" : "application/views/frontend/default/shopping_cart_inner_view.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/lessons/lessons.php",
+        "update_directory" : "application/views/lessons/lessons.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/lessons/quiz_result.php",
+        "update_directory" : "application/views/lessons/quiz_result.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/application/views/lessons/quiz_view.php",
+        "update_directory" : "application/views/lessons/quiz_view.php"
+    },
+    {
+        "root_directory" : "update/update_5.15/assets/frontend/default/css/custom.css",
+        "update_directory" : "assets/frontend/default/css/custom.css"
+    }
+  ]
+}
